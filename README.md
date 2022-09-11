@@ -1,5 +1,5 @@
 # MgMananghaya Project Proposal
-## F1: Trials of Skill and Logistics
+## F1: The Art of Racing
 ******
 ### Description
 ### This webpage aims to talk about the sport which includes the drivers themselves, together with their teams and the logistical hurdles they have to overcome. It is a very interesting sport to me and is something that I am very interested in, so this was my best option to stay motivated throughout the two quarter duration of this project. I want to show my readers that there is more to the sport than just skilled drivers racing in circles hoping for a win.
@@ -17,3 +17,13 @@
 #### - Each subpage has a menu at the side in the form of a circular figure representing a tire, which will expand upon mouse hover and show the other pages
 #### - The bottom of the pages will contain various information such as the author of the webpage.
 #### - The 6th page (sources page) will not be in the side menu but will be located elsewhere (It will probably be a hyperlink of some sort at the bottom of each page.)
+******
+#### Wireframes:
+#### Home Page:
+#### ![Home Page](https://github.com/Takuhaya123/Project_MgMananghaya/blob/main/images/Home.png)
+#### First Page:
+#### ![First Page](https://github.com/Takuhaya123/Project_MgMananghaya/blob/main/images/P1.png)
+#### First Page Expanded:
+#### ![First Page Expanded](https://github.com/Takuhaya123/Project_MgMananghaya/blob/main/images/P1%20Expanded.png)
+#### Second Page:
+#### ![Second Page](https://github.com/Takuhaya123/Project_MgMananghaya/blob/main/images/P2.png)
